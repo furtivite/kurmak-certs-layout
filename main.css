@@ -3,12 +3,12 @@
 .certificate__paragraph_uppercase{text-transform:uppercase}
 .certificate__paragraph{font-size:20px;line-height:30px;-webkit-margin-before:0;margin-block-start:0;-webkit-margin-after:0;margin-block-end:0}@media (max-width:320px){.certificate__paragraph{font-size:16px;line-height:19.36px}}
 .certificate__header_uppercase{text-transform:uppercase}
-.certificate__header{font-family:Epilogue,sans-serif;font-size:90px;line-height:90px;-webkit-margin-before:30px;margin-block-start:30px;-webkit-margin-after:59px;margin-block-end:59px}@media (max-width:320px){.certificate__header{font-size:40px;line-height:40px;-webkit-margin-before:15px;margin-block-start:15px;-webkit-margin-after:30px;margin-block-end:30px}}
-.certificate__subheader{font-size:40px;line-height:44px;font-weight:700;-webkit-margin-before:0;margin-block-start:0;-webkit-margin-after:20px;margin-block-end:20px}@media (max-width:320px){.certificate__subheader{font-size:24px;line-height:28px;-webkit-margin-before:0;margin-block-start:0;-webkit-margin-after:15px;margin-block-end:15px}}
+.certificate__header{font-family:Epilogue,sans-serif;font-size:90px;line-height:90px;-webkit-margin-before:30px;margin-block-start:30px;-webkit-margin-after:59px;margin-block-end:59px}@media (max-width:425px){.certificate__header{font-size:56px;line-height:56px}}@media (max-width:375px){.certificate__header{font-size:48px;line-height:48px}}@media (max-width:320px){.certificate__header{font-size:40px;line-height:40px;-webkit-margin-before:15px;margin-block-start:15px;-webkit-margin-after:30px;margin-block-end:30px}}
+.certificate__subheader{font-size:40px;line-height:44px;font-weight:700;-webkit-margin-before:0;margin-block-start:0;-webkit-margin-after:20px;margin-block-end:20px}@media (max-width:375px){.certificate__subheader{font-size:37px;line-height:41px}}@media (max-width:320px){.certificate__subheader{font-size:24px;line-height:28px;-webkit-margin-before:0;margin-block-start:0;-webkit-margin-after:15px;margin-block-end:15px}}
 @media (max-width:768px){.certificate__info{margin-bottom:59px}}@media (max-width:320px){.certificate__info{margin-bottom:41px}}
 @media (max-width:768px){.certificate__image-block{margin-bottom:64px}}
 .certificate__image{width:100%;height:auto;max-width:384px}@media (max-width:320px){.certificate__image{max-width:280px}}
-.certificate{margin:0;background:#000;color:#fff;font-family:Inter,sans-serif}@media (max-width:768px){.certificate{padding-bottom:192px}}@media (max-width:320px){.certificate{padding-bottom:75px}}
+.certificate{margin:0;background:#000;color:#fff;font-family:Inter,sans-serif;padding-bottom:175px}@media (max-width:768px){.certificate{padding-bottom:192px}}@media (max-width:320px){.certificate{padding-bottom:75px}}
 .header__text{font-size:20px;line-height:24px;-webkit-margin-before:0;margin-block-start:0;-webkit-margin-after:0;margin-block-end:0}@media (max-width:320px){.header__text{font-size:16px;line-height:19.36px}}
 .header__link{font-family:Inter,sans-serif;font-weight:700;color:#95fcde;text-decoration:none}.header__link:hover{text-decoration:underline}
 .header{padding-top:47px}@media (max-width:320px){.header{padding-top:32px}}
