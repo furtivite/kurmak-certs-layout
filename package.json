@@ -40,5 +40,9 @@
   },
   "dependencies": {
     "core-js": "^3.9.1"
-  }
+  },
+  "browserslist": [
+    "> 1%",
+    "IE 10"
+  ]
 }
